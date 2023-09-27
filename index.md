@@ -15,9 +15,12 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Administrivia
 
-**Lectures**: MWF 03:00PM-03:50PM; PETER 104
+**Lectures**: MWF 03:00PM-03:50PM; CENTR 214
 
-**Instructor**: [Haojian Jin](http://haojianj.in/); Office: SDSC 214E; Office Hours: Wed 4:00-5:00pm
+**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: TBD
+
+**Discussion**: F 9:00AM-9:50AM; PCYNH 109
+
 
 ## Course Content and Format
 
