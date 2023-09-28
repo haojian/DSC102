@@ -53,18 +53,6 @@ A major component of this course is hands-on Python programming to implement dat
 
 2. Proficiency in Python programming.
 
-## SUGGESTED TEXTBOOKS
-
-1. Computer Organization and Design (5th edition), by David Patterson and John Hennessy (aka the “CompOrg Book”).
-
-2. Operating Systems: Three Easy Pieces, by Remzi and Andrea Arpaci-Dusseau (aka the “Comet Book”).
-
-3. Database Management Systems (3rd edition), by Raghu Ramakrishnan and Johannes Gehrke (aka the “Cow Book”).
-
-4. Spark: The Definitive Guide (1st edition), by Bill Chambers and Matei Zaharia (aka the “Spark Book”).
-
-5. Data Management in Machine Learning Systems, by Matthias Boehm, Arun Kumar, and Jun Yang (aka the “MLSys Book”).
-
 ## Grading (Tentative)
 
 **Components**: 

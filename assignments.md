@@ -11,7 +11,7 @@ permalink: /assignments/
     - Submit your team decision via a Google Form that we will provide before PA0’s release. One submission suffices per team.
     - Team decisions cannot be changed.
     - The TAs will then confirm your team memberships and team IDs.
-</br></br>
+    
 - Academic integrity:
     - It is okay to discuss about the assignment with your peers at a conceptual level. It is also okay to post conceptual or high-level questions, logistical questions, and useful references on Slack. But do not share any code across teams and do not post any of your solution code for discussion on the public channels. A team’s code submission must be entirely their own.
     - Please post conceptual questions on the public Slack channels for the benefit of all students.
