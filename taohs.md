@@ -2,7 +2,7 @@
 layout: page
 title: Tentative Schedule of TA Office Hours
 permalink: /taohs/
----<br>
+---
 
 - The work for the administering the PAs are divided among the TAs as follows.
     - PA0 handled by Sai Sree Harsha.
@@ -18,7 +18,7 @@ permalink: /taohs/
     <!-- - Extra in PA0 & PA1 interval: 11:00am-1:00pm on TBD, 4:30-6:30pm on TBD, and TBD, 12:30-2:30pm on TBD -->
 
 - Sai Sree Harsha's OHs:
-    - Regular OHs: Thursday 1:00 - 2:00 PM
+    - Regular OHs: Thursday 1:00 PM - 2:00 PM
     <!-- - Extra in PA2 interval: 9-11am on TBD and TBD, 10am-12pm on TBD, 9-11am on TBD -->
 
 - Golokesh Patra's OHs:
