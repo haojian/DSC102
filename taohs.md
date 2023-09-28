@@ -2,7 +2,7 @@
 layout: page
 title: Tentative Schedule of TA Office Hours
 permalink: /taohs/
----
+---<br>
 
 - The work for the administering the PAs are divided among the TAs as follows.
     - PA0 handled by Sai Sree Harsha.
