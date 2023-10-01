@@ -11,7 +11,7 @@ permalink: /taohs/
 
 - You are welcome to use the office hours of any TA for any PA.
 
-- The TA OHs will be in-person only in [TBD].
+- The TA OHs will be in-person only in DSB 155 on the first floor.
 
 - Rohit Ramaprasad's OHs:
     - Regular OHs: Tuesday 1:00 PM - 2:00 PM
@@ -22,6 +22,6 @@ permalink: /taohs/
     <!-- - Extra in PA2 interval: 9-11am on TBD and TBD, 10am-12pm on TBD, 9-11am on TBD -->
 
 - Golokesh Patra's OHs:
-    - Regular OHs: TBD
+    - Regular OHs: Monday 11:00 AM - 12:00 PM
     <!-- - Extra in PA2 interval: 9-11am on TBD and TBD, 10am-12pm on TBD, 9-11am on TBD -->
 
