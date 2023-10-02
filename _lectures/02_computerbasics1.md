@@ -2,15 +2,15 @@
 type: lecture
 date: 2023-09-29
 title: Introduction 
-tldr: "Course goals, content, format, pre-requisites, grading"
+tldr: "Course logistics, computer basics, data basics"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/1IntroSept29.pdf
-      name: Sept. 29 Slides
+    - url: /static_files/presentations/2IntroOct2.pdf
+      name: Oct. 2 Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
