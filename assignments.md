@@ -7,7 +7,7 @@ permalink: /assignments/
 ## Instructions and Caveats
 
 - Team composition:
-    - You can work on the PAs in teams of between 1-3 individuals.
+    - You can work on the PAs in teams of between 1-2 individuals.
     - Submit your team decision via a Google Form that we will provide before PA0’s release. One submission suffices per team.
     - Team decisions cannot be changed.
     - The TAs will then confirm your team memberships and team IDs.
