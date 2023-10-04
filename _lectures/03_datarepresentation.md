@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-09-29
+date: 2023-10-04
 title: Data representation 
 tldr: "Binary, Integer, Float, Negative"
 thumbnail: /static_files/presentations/placeholder.jpg
