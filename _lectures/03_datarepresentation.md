@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2023-09-29
-title: Introduction 
-tldr: "Course logistics, computer basics, data basics"
+title: Data representation 
+tldr: "Binary, Integer, Float, Negative"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip

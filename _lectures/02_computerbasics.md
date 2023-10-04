@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-09-29
-title: Introduction 
+title: Computer basics 
 tldr: "Course logistics, computer basics, data basics"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
