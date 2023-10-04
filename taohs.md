@@ -11,7 +11,7 @@ permalink: /taohs/
 
 - You are welcome to use the office hours of any TA for any PA.
 
-- The TA OHs will be in-person only in DSB 155 on the first floor.
+- The TA OHs will be in-person only at the open area near CSE 3230.
 
 - Rohit Ramaprasad's OHs:
     - Regular OHs: Tuesday 1:00 PM - 2:00 PM
