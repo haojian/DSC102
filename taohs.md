@@ -19,7 +19,8 @@ permalink: /taohs/
 
 - Sai Sree Harsha's OHs:
     - Regular OHs: Thursday 1:00 PM - 2:00 PM
-    <!-- - Extra in PA2 interval: 9-11am on TBD and TBD, 10am-12pm on TBD, 9-11am on TBD -->
+    - Extra in PA2 interval: 10am - 12pm on Oct 9 || 12pm - 2pm on Oct 11, Oct 18 ||  4pm - 6pm on Oct 13, Oct 20
+
 
 - Golokesh Patra's OHs:
     - Regular OHs: Monday 11:00 AM - 12:00 PM
