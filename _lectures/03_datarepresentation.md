@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/3DataRepresentationOct4.pdf
-      name: Oct. 4 Slides
+      name: Oct. 4-Oct. 10 Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
