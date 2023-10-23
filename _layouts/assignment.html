@@ -29,8 +29,11 @@ title: page.title
       {% if page.discussion_slides %}
       [<a href="{{ page.discussion_slides | prepend: site.baseurl }}">Discussion Slides</a>]
       {% endif %}
-      {% if page.demo_notebook %}
+      {% if page.demo_notebook and page.title contains 'Assignment #0'%}
       [<a href="{{ page.demo_notebook | prepend: site.baseurl }}">Dask Demo Notebook</a>]
+      {% endif %}
+      {% if page.demo_notebook and page.title contains 'Assignment #1'%}
+      [<a href="{{ page.demo_notebook | prepend: site.baseurl }}">Starter Notebook</a>]
       {% endif %}
       {% if page.system_setup_summary %}
       [<a href="{{ page.system_setup_summary | prepend: site.baseurl }}">System Setup Summary</a>]
