@@ -14,8 +14,8 @@ permalink: /taohs/
 - The TA OHs will be in-person only at the open area near CSE 3230.
 
 - Rohit Ramaprasad's OHs:
-    - Regular OHs: Tuesday 1:00 PM - 2:00 PM
-    <!-- - Extra in PA0 & PA1 interval: 11:00am-1:00pm on TBD, 4:30-6:30pm on TBD, and TBD, 12:30-2:30pm on TBD -->
+    - Regular OHs: Tuesday 1:00 PM - 2:00 PM (no OH on Nov 7)
+    - Extra in PA1 interval: 12:30 PM - 2:30 PM on Oct 25, Oct 30, Nov 1, Nov 8 and 10:00 AM - 12:00 PM on Nov 9
 
 - Sai Sree Harsha's OHs:
     - Regular OHs: Thursday 1:00 PM - 2:00 PM
