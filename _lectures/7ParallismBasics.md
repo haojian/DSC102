@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-10-10
+date: 2023-11-06
 title: Parallism Basics
 tldr: "Task Parallelism, Scalable Data accesss"
 thumbnail: /static_files/presentations/placeholder.jpg
