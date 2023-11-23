@@ -9,7 +9,7 @@ permalink: /taohs/
     - PA1 handled by Rohit Ramaprasad.
     - PA2 handled by Golokesh Patra.
 
-- You are welcome to use the office hours of any TA for any PA.
+- You are welcome to use the office hours of any TA for any PA. However, please try to stick to respective TAs OH as listed above.
 
 - The TA OHs will be in-person only at the open area near CSE 3230.
 
@@ -23,6 +23,6 @@ permalink: /taohs/
 
 
 - Golokesh Patra's OHs:
-    - Regular OHs: Monday 11:00 AM - 12:00 PM
+    - Extended OHs: Monday 11:00 AM - 1:00 PM
     <!-- - Extra in PA2 interval: 9-11am on TBD and TBD, 10am-12pm on TBD, 9-11am on TBD -->
 
