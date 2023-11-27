@@ -1,15 +1,15 @@
 ---
 type: lecture
-date: 2023-11-20
-title: Parallism Basics - Replication
-tldr: "Data replication"
+date: 2023-11-27
+title: Data flow systems
+tldr: "MapReduce, "
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/9DataParallelismReplication.pdf
+    - url: /static_files/presentations/10DataflowSystems.pdf
       name: Nov. 22 Slides
 ---
 <!-- **Suggested Readings:**
