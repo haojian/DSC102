@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/11ModelBulding.md
+    - url: /static_files/presentations/11ModelBuilding.pdf
       name: Nov. 22 Slides
 ---
 <!-- **Suggested Readings:**
